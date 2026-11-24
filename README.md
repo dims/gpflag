@@ -1,5 +1,7 @@
 <img width="1280" height="640" alt="gpflag-banner" src="https://github.com/user-attachments/assets/d608a0c6-acda-495c-b751-7ebf011677f1" />
 
+---
+
 `gpflag` is a hard fork of `spf13/pflag`. It uses Go generics instead of type-specific APIs,
 utilizes a modern `New(...)` syntax, provides `spf13/pflag` feature-compatible custom types,
 and implements zero global state.
